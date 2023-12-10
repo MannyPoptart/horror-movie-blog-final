@@ -23,16 +23,6 @@ export const siteInfo = {
 
 export const nav = [
     {
-        title: "Search",
-        slug: "/search",
-        children: [],
-    },
-    {
-        title: "Category",
-        slug: "/categories",
-        children: [],
-    },
-    {
         title: "About",
         slug: "/about",
         children: [],
@@ -40,11 +30,6 @@ export const nav = [
     {
         title: "Contact",
         slug: "/contact",
-        children: [],
-    },
-    {
-        title: "Demo",
-        slug: "/demo",
         children: [],
     },
 ];
