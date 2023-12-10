@@ -18,7 +18,7 @@ export const siteInfo = {
         );
     },
     heroPosition: "center",
-    startTime: "6/8/2022 10:28:00",
+    startTime: "12/09/2023",
 };
 
 export const nav = [
